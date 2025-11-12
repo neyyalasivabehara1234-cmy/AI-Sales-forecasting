@@ -1,0 +1,1 @@
+# Stakeholder requirements\n- 12-month forecasts\n- What-if pricing and promotion toggles\n
