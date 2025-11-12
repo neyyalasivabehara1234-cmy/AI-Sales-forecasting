@@ -1,0 +1,11 @@
+name: sales-forecast-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - scikit-learn=1.2.2
+  - pip
+  - pip:
+    - -r requirements.txt
