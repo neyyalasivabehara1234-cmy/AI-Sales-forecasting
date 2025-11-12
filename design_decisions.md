@@ -1,1 +1,0 @@
-# Design decisions\n- Modular code\n- Simple models for demo\n
